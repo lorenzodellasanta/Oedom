@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzodellasanta
 
 <div align="center">
   <a href="https://github.com/Oedom">
@@ -16,4 +15,4 @@
 
 ##
 
-[Snake animation](https://github.com/Oedom/Oedom/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Oedom/Oedom/blob/output/github-contribution-grid-snake.svg)
