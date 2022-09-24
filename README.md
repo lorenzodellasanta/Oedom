@@ -16,5 +16,4 @@
 
 ##
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oedom&show_icons=true)](https://github.com/Oedom/Oedom)
 [Snake animation](https://github.com/Oedom/Oedom/blob/output/github-contribution-grid-snake.svg)
