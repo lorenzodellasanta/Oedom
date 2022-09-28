@@ -1,8 +1,8 @@
 ### Hello My name is Lorenzo !!!
 
 <div align="center">
-  <a href="https://github.com/Oedom">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Oedom&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lorenzodellasanta">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=lorenzodellasanta&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oedom&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
@@ -15,4 +15,4 @@
 
 ##
 
-![Snake animation](https://github.com/Oedom/Oedom/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lorenzodellasanta/lorenzodellasanta/blob/output/github-contribution-grid-snake.svg)
